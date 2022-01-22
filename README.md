@@ -7,11 +7,13 @@ I'm interested in developing, operating on big data platforms and collaborating 
 
 ------------
 
-<h1 align="center"> Proejcts, Studies </h1>   
-- [Apachi Airflow](https://airflow.apache.org/)
-- [Distributed Web Crawler, Data Management and Publishing System for data on the Web](https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data)
+<h1 align="center"> Proejcts, Studies </h1>
+
+- [Apachi Airflow](https://airflow.apache.org/)   
+- [Distributed Web Crawler, Data Management and Publishing System for data on the Web](https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data)   
 - Personal Study
   - https://github.com/SML0127/personal-study-notes 
+
 <br>
 
 ------------
