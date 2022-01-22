@@ -1,3 +1,5 @@
+<h1 align="center"> I'm Seung-Min Lee </h1>
+
 I’m a MS Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH) and doing research under the supervision of Professor Wook-Shin Han.    
 I'm interested in developing, operating on big data platforms and collaborating with people.  
 
@@ -5,7 +7,7 @@ I'm interested in developing, operating on big data platforms and collaborating 
 
 ------------
 
-## Proejcts, Studies
+<h1 align="center"> Proejcts, Studies</h1>
  - [Distributed Web Crawler, Data Management and Publishing System for data on the Web](https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data)   
 
  - Personal Study
@@ -14,7 +16,7 @@ I'm interested in developing, operating on big data platforms and collaborating 
 
 ------------
 
-<h2 align="center"> Tech Stack </h2>
+<h1 align="center"> Tech Stack </h1>
 <h3 align="center"> Environment / Framework </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp 
@@ -36,7 +38,7 @@ I'm interested in developing, operating on big data platforms and collaborating 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> Tools </h3>
+<h3 align="center"> Database </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></a>&nbsp
