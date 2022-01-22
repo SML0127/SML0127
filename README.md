@@ -1,12 +1,18 @@
-## Hi there 👋   
 I’m a MS Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH) and doing research under the supervision of Professor Wook-Shin Han.    
 I'm interested in developing, operating on big data platforms and collaborating with people.  
 
+<br>
 
-## What I developed   
+------------
+
+## Proejcts, Studies
  - Distributed Web Crawler, Data Management and Publishing System for data on the Web.
    - https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
- 
+ - 
+<br>
+
+------------
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SML0127)
 ![SML0127's github stats](https://github-readme-stats.vercel.app/api?username=SML0127&show_icons=true)
