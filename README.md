@@ -1,3 +1,5 @@
+# Seung-Min Lee
+
 I’m a MS Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH) and doing research under the supervision of Professor Wook-Shin Han.    
 I'm interested in developing, operating on big data platforms and collaborating with people.  
 
