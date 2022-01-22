@@ -14,7 +14,7 @@ I'm interested in developing, operating on big data platforms and collaborating 
 
 ------------
 
-## Tech Stack
+<h2 align="center"> Tech Stack </h2>
 <h3 align="center"> Environment / Framework </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp 
