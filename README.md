@@ -1,6 +1,7 @@
 ## Hi there 👋   
-I’m a MS Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.     
-I’m interested in developing big data management platform, and I have developed and operated a Distributed Web Crawler and Data Management System for Web Data.    
+I’m a MS Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH) and doing research under the supervision of Professor Wook-Shin Han.    
+I'm interested in developing, operating on big data platforms and collaborating with people.  
+
 
 ## What I developed   
  - Distributed Web Crawler, Data Management and Publishing System for data on the Web.
