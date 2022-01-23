@@ -9,9 +9,9 @@ I’m a MS Student in the Dept. Computer Science and Engineering at Pohang Unive
 <h1 align="center"> Projects, Studies </h1>
  
 - [Distributed Web Crawler, Data Management and Publishing System for data on the Web](https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data)   
-- Personal Study
-  - https://github.com/SML0127/personal-study-notes 
-
+- [Personal Study](https://github.com/SML0127/personal-study-notes)
+- [Algorithm](https://github.com/SML0127/Algorithm)
+ 
 <br>
 
 ------------
