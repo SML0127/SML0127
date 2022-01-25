@@ -23,8 +23,8 @@ I’m a MS Student in the Dept. Computer Science and Engineering at Pohang Unive
   - [WWW 2019](https://thewebconf.org/www2019/)
 
 - Teaching Assistant
-  - Database system @ Postech (Feb.2017 ~ June.2017,  Feb.2018 ~ June.2018)  
-  - Data foundation course @ Samsung Electronics (Oct. 2017, Dec. 2017, Feb. 2018)
+  - Database system @ [Postech](https://postech.ac.kr/) (Feb.2017 ~ June.2017,  Feb.2018 ~ June.2018)  
+  - Data foundation course @ [Samsung Electronics](https://www.samsung.com/sec/) (Oct. 2017, Dec. 2017, Feb. 2018)
 
 <br>
 
