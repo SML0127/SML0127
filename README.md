@@ -19,12 +19,22 @@ I’m a MS Student in the Dept. Computer Science and Engineering at Pohang Unive
 <h1 align="center"> Experience </h1>
 
 - Reviewer
-  - [EDBT 2018](https://openproceedings.org/html/pages/2018_edbt.html)
   - [WWW 2019](https://thewebconf.org/www2019/)
+  - [EDBT 2018](https://openproceedings.org/html/pages/2018_edbt.html)
+
 
 - Teaching Assistant
   - Database system @ [Postech](https://postech.ac.kr/) (Feb.2017 ~ June.2017,  Feb.2018 ~ June.2018)  
   - Data foundation course @ [Samsung Electronics](https://www.samsung.com/sec/) (Oct. 2017, Dec. 2017, Feb. 2018)
+
+<br>
+
+------------
+
+<h1 align="center"> Education </h1>
+
+- [Department of Computer Science and Engineering, Pohang University of Science and Technology (M.S.)](https://cse.postech.ac.kr//) - 2017.03 - 2022.02
+- [School of Computer Science and Engineering, Pusan National University (B.S.)](https://cse.pusan.ac.kr/cse/index.do) - 2013.03 - 2017.02 
 
 <br>
 
