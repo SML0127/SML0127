@@ -17,9 +17,10 @@ I’m a MS Student in the Dept. Computer Science and Engineering at Pohang Unive
 ------------ 
 
 <h1 align="center"> Experience </h1>
- 
-- [EDBT 2018](https://openproceedings.org/html/pages/2018_edbt.html) paper reviewer
-- [WWW 2019](https://thewebconf.org/www2019/) paper reviewer
+
+- Reviewer (conference paper)
+  - [EDBT 2018](https://openproceedings.org/html/pages/2018_edbt.html)
+  - [WWW 2019](https://thewebconf.org/www2019/)
  
 <br>
 
