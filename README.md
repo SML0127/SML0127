@@ -8,6 +8,9 @@ I’m a MS Student in the Dept. Computer Science and Engineering at Pohang Unive
 
 <h1 align="center"> Projects / Studies </h1>
  
+- Distributed Graph Analytics System
+  - Implement the function of storing the label of the edge and writing the buffer in Buffer Manager module of [TurboGraph++](https://dl.acm.org/doi/10.1145/3183713.3196915)
+  - Optimize SCC (Strongly Connected Components) query on [TurboGraph++](https://dl.acm.org/doi/10.1145/3183713.3196915)
 - [Distributed Web Crawler, Data Management and Publishing System for data on the Web](https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data)   
 - [Personal Study](https://github.com/SML0127/personal-study-notes)
 - [Algorithm](https://github.com/SML0127/Algorithm)
