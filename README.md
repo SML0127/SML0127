@@ -1,8 +1,8 @@
-<h1 align="center"> Hi, I'm Seung-Min. </h1>
+<h1 align="center"> :D </h1>
 
-Let's hit the books~
+
 <br>
-
+<!--
 ------------
 
 <h1 align="center"> Projects / Studies </h1>
@@ -96,3 +96,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
