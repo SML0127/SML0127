@@ -3,6 +3,8 @@
 
 ## Flink CDC
 - [[FLINK-35740][mysql] Allow column as chunk key even if not in Primary Keys by SML0127 · Pull Request #3448 · apache/flink-cdc · GitHub](https://github.com/apache/flink-cdc/pull/3448)
+    <img width="1091" alt="image" src="https://github.com/user-attachments/assets/b3af1427-d804-43fd-81be-c00c2a2e45b3">
+
 - [[FLINK-34689][MySQL][Feature] check binlog\_row\_value\_options by SML0127 · Pull Request #3148 · apache/flink-cdc · GitHub](https://github.com/apache/flink-cdc/pull/3148)
 
 ## Flink
