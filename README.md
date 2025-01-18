@@ -1,13 +1,11 @@
 <h1 align="center"> :D </h1>
 
 
-## Flink CDC
+
 - [[FLINK-35740] Allow column as chunk key even if not in Primary Keys by SML0127 · Pull Request #3448 · apache/flink-cdc · GitHub](https://github.com/apache/flink-cdc/pull/3448)
 - [[FLINK-34689] check binlog\_row\_value\_options by SML0127 · Pull Request #3148 · apache/flink-cdc · GitHub](https://github.com/apache/flink-cdc/pull/3148)
 - [[FLINK-36578] Added modified JsonStringFormatter and option use.legacy.json.format by SML0127 · Pull Request #3658 · apache/flink-cdc · GitHub](https://github.com/apache/flink-cdc/pull/3658)
-
-## Flink
-- [[FLINK-31818][docs] Fix incorrect description of security.kerberos.access.hadoopFileSystems in SecurityOptions by SML0127 · Pull Request #22409 · apache/flink · GitHub](https://github.com/apache/flink/pull/22409)
+- [[FLINK-31818] Fix incorrect description of security.kerberos.access.hadoopFileSystems in SecurityOptions by SML0127 · Pull Request #22409 · apache/flink · GitHub](https://github.com/apache/flink/pull/22409)
 
 
 <br>
